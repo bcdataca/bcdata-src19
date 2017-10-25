@@ -23,7 +23,7 @@ echo "Removing existing files"
 rm -rf public/*
 
 echo "Generating site"
-hugo -d public/2017
+hugo -d public/2018
 
 cp CNAME ./public/
 cp -r favi/* ./public/
