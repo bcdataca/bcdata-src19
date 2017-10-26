@@ -1,6 +1,6 @@
 ---
 title: "bcdata colloquium introduction"
-date: 2017-10-25T00:08:53-07:00
+date: 2017-10-01T00:08:00-07:00
 ---
 
 
