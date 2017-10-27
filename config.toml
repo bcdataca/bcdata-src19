@@ -35,10 +35,21 @@ theme = "hugo-hikari-theme"
 	bio = "Data talks linking industry and the academy."
 	subscribe = "Links"
 	# followme = "Follow me on"
+	previous = "Colloquium Iterations"
+	
 
 	# Enable Google search
 	search_enabled = false
 	search = "Search"
+
+	[[params.offcanvas.colloquiumiterations]]
+		name = "Fall 2017 - Winter 2018"
+		url = "http://bcdata.ca/2018"
+
+	[[params.offcanvas.colloquiumiterations]]
+		name = "Winter 2017"
+		url = "http://bcdata.ca/2017"
+		
 
 	[[params.offcanvas.socialnetworks]]
 		name = "Github"
