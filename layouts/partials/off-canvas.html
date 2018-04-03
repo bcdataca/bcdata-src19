@@ -44,16 +44,19 @@
 
         <ul>
             <li><a target="_blank" href="{{ .Site.BaseURL }}index.xml">RSS feed</a></li>
-        </ul>
-
-        {{ with .Site.Params.offcanvas.followme }}
-        <h6>{{ . }}</h6>
-        {{ end }}
-
-        <ul>
         {{ range .Site.Params.offcanvas.socialnetworks }}
             <li><a target="_blank" href="{{ .url }}">{{ .name }}</a></li>
         {{ end }}
-        </ul>        
+        </ul>
+
+	
+	{{ with .Site.Params.offcanvas.email }}
+        <h6>{{ . }}</h6>
+        {{ end }}
+	
+	{{ with .Site.Params.offcanvas.emailinstructions }}
+	<p> {{ . | markdownify }} </p>
+	{{ end }}
+	
     </nav>
 </div>

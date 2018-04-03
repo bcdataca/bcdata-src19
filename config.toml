@@ -33,8 +33,9 @@ theme = "hugo-hikari-theme"
 	# Menu items
 	title = "bcdata colloquium"
 	bio = "Data talks linking industry and the academy."
+	email = "e-mail"
+	emailinstructions = "For announcements of future events, join the list <a href=\"#\">bcdata-colloquium@lists.ubc.ca</a> by sending an e-mail to <a href=\"mailto:listserv@lists.ubc.ca\">listserv@lists.ubc.ca</a> with <tt>\"subscribe bcdata-colloquium\"</tt> in the body."
 	subscribe = "Links"
-	# followme = "Follow me on"
 	previous = "Colloquium Iterations"
 	
 
@@ -58,7 +59,3 @@ theme = "hugo-hikari-theme"
 	[[params.offcanvas.socialnetworks]]
 		name = "IAM Workshop"
 		url = "//workshop.bcdata.ca"
-
-	[[params.offcanvas.socialnetworks]]
-		name = "e-mail"
-		url = "mailto:iam-workshop2017@lists.ubc.ca"
