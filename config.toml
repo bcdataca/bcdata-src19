@@ -1,4 +1,4 @@
-baseurl = "http://bcdata.github.io/bcdata-src18/"
+baseurl = "https://bcdata.github.io/bcdata-src18/"
 relativeurls=false
 canonifyurls=false
 
