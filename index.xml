@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bcdata colloquium 18</title>
-    <link>http://bcdata.ca/2018/</link>
+    <link>http://bcdata.github.io/bcdata-src18/</link>
     <description>Recent content on bcdata colloquium 18</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 May 2018 18:30:00 -0700</lastBuildDate>
     
-	<atom:link href="http://bcdata.ca/2018/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://bcdata.github.io/bcdata-src18/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Three-part discussion series</title>
-      <link>http://bcdata.ca/2018/post/20180517-henrey/</link>
+      <link>http://bcdata.github.io/bcdata-src18/post/20180517-henrey/</link>
       <pubDate>Thu, 17 May 2018 18:30:00 -0700</pubDate>
       
-      <guid>http://bcdata.ca/2018/post/20180517-henrey/</guid>
+      <guid>http://bcdata.github.io/bcdata-src18/post/20180517-henrey/</guid>
       <description>Speakers: Andrew Henrey (Finning Digital),
 Phat Tran (Technical Safety BC) and Dmitry Samosseiko (Sophos)
 Location: Technical Safety BC
@@ -30,10 +30,10 @@ The machine learning technology took the cybersecurity industry by storm a coupl
     
     <item>
       <title>Modern Software Tooling for Data Science</title>
-      <link>http://bcdata.ca/2018/post/20180326-reid/</link>
+      <link>http://bcdata.github.io/bcdata-src18/post/20180326-reid/</link>
       <pubDate>Mon, 26 Mar 2018 18:30:00 -0700</pubDate>
       
-      <guid>http://bcdata.ca/2018/post/20180326-reid/</guid>
+      <guid>http://bcdata.github.io/bcdata-src18/post/20180326-reid/</guid>
       <description>Speaker: Michael Reid (Amazon)
 Location: KPMG Vancouver 777 Dunsmuir St, 11th floor, Vancouver
 Talk: 18:30 &amp;ndash; 19:30
@@ -45,10 +45,10 @@ Description As machine learning becomes more critical to businesses&amp;rsquo; c
     
     <item>
       <title>Big Data in Personalized Medicine</title>
-      <link>http://bcdata.ca/2018/post/20180228-ng/</link>
+      <link>http://bcdata.github.io/bcdata-src18/post/20180228-ng/</link>
       <pubDate>Wed, 28 Feb 2018 18:00:00 -0800</pubDate>
       
-      <guid>http://bcdata.ca/2018/post/20180228-ng/</guid>
+      <guid>http://bcdata.github.io/bcdata-src18/post/20180228-ng/</guid>
       <description>Speaker: Dr. Raymond Ng (UBC Computer Science) Location: Mobify Head Office (725 Granville Street, Suite #420) Talk: 18:00 &amp;ndash; 19:00
 Reception: 19:00 &amp;ndash; 20:30 Registration: Link for registration
 Description Personalized medicine has been hailed as one of the main frontiers for medical research in this century. In the first half of the talk, we will give an overview on our projects that use complex and big datta sets for biomarker discovery.</description>
@@ -56,10 +56,10 @@ Description Personalized medicine has been hailed as one of the main frontiers f
     
     <item>
       <title>Combating Crime with Predictive Policing: Stopping a Crime Wave in its Tracks</title>
-      <link>http://bcdata.ca/2018/post/20180207-prox/</link>
+      <link>http://bcdata.github.io/bcdata-src18/post/20180207-prox/</link>
       <pubDate>Wed, 07 Feb 2018 18:00:00 -0800</pubDate>
       
-      <guid>http://bcdata.ca/2018/post/20180207-prox/</guid>
+      <guid>http://bcdata.github.io/bcdata-src18/post/20180207-prox/</guid>
       <description>Speaker: Special Constable Ryan Prox (Vancouver Police Department) Location: SFU Harbour centre (talk: room 1700; reception: room 1305)
 Talk: 18:00 &amp;ndash; 19:00
 Reception: 19:00 &amp;ndash; 20:30
@@ -69,10 +69,10 @@ Description The Vancouver Police Department is known worldwide for its pioneerin
     
     <item>
       <title>Deep Neural Networks Meet Partial Differential Equations</title>
-      <link>http://bcdata.ca/2018/post/20171115-haber/</link>
+      <link>http://bcdata.github.io/bcdata-src18/post/20171115-haber/</link>
       <pubDate>Wed, 15 Nov 2017 18:00:00 -0700</pubDate>
       
-      <guid>http://bcdata.ca/2018/post/20171115-haber/</guid>
+      <guid>http://bcdata.github.io/bcdata-src18/post/20171115-haber/</guid>
       <description>Speaker: Eldad Haber (UBC)
 Location: Mobify Vancouver 725 Granville St #420
 Talk: 18:00 &amp;ndash; 19:00
@@ -83,10 +83,10 @@ Description In this talk we will explore deep neural networks from a dynamical s
     
     <item>
       <title>bcdata colloquium introduction</title>
-      <link>http://bcdata.ca/2018/post/20171001-introduction/</link>
+      <link>http://bcdata.github.io/bcdata-src18/post/20171001-introduction/</link>
       <pubDate>Sun, 01 Oct 2017 00:08:00 -0700</pubDate>
       
-      <guid>http://bcdata.ca/2018/post/20171001-introduction/</guid>
+      <guid>http://bcdata.github.io/bcdata-src18/post/20171001-introduction/</guid>
       <description> 2017 bcdata colloquium Organization and sponsorship Organizers include the Institute of Applied Mathematics (UBC IAM) and the Pacific Institute for the Mathematical Sciences (PIMS).
 This series is co-sponsored by CANSSI, UBC DSI, SFU Math, UBC IAM and PIMS.
            </description>
