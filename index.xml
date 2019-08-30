@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bcdata colloquium 18</title>
+    <link>http://bcdata.ca/2018/</link>
+    <description>Recent content on bcdata colloquium 18</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 May 2018 18:30:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://bcdata.ca/2018/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Three-part discussion series</title>
+      <link>http://bcdata.ca/2018/post/20180517-henrey/</link>
+      <pubDate>Thu, 17 May 2018 18:30:00 -0700</pubDate>
+      
+      <guid>http://bcdata.ca/2018/post/20180517-henrey/</guid>
+      <description>Speakers: Andrew Henrey (Finning Digital),
+Phat Tran (Technical Safety BC) and Dmitry Samosseiko (Sophos)
+Location: Technical Safety BC
+Suite 600 - 2899 East 12th Avenue, Vancouver
+Talk and reception: 18:00 &amp;ndash; 19:30
+Registration: Link for registration
+Description Redefining Cybersecurity with Data Science Dmitry Samosseiko
+Director of Global Threat Research at Sophos.
+The machine learning technology took the cybersecurity industry by storm a couple of years ago. Nowadays, nearly every cybersecurity product claims to contain some form of “artificial intelligence”.</description>
+    </item>
+    
+    <item>
+      <title>Modern Software Tooling for Data Science</title>
+      <link>http://bcdata.ca/2018/post/20180326-reid/</link>
+      <pubDate>Mon, 26 Mar 2018 18:30:00 -0700</pubDate>
+      
+      <guid>http://bcdata.ca/2018/post/20180326-reid/</guid>
+      <description>Speaker: Michael Reid (Amazon)
+Location: KPMG Vancouver 777 Dunsmuir St, 11th floor, Vancouver
+Talk: 18:30 &amp;ndash; 19:30
+Reception: 18:00 &amp;ndash; 18:30
+Registration: Link for registration
+Slides: Available here
+Description As machine learning becomes more critical to businesses&amp;rsquo; core offerings, data scientists must adapt their tools and techniques to meet business demands. Industry data scientists can no longer run ad hoc Tensorflow or Spark jobs against local data sets; they must now handle cloud computing, high availability and disaster recovery, and real-time analysis.</description>
+    </item>
+    
+    <item>
+      <title>Big Data in Personalized Medicine</title>
+      <link>http://bcdata.ca/2018/post/20180228-ng/</link>
+      <pubDate>Wed, 28 Feb 2018 18:00:00 -0800</pubDate>
+      
+      <guid>http://bcdata.ca/2018/post/20180228-ng/</guid>
+      <description>Speaker: Dr. Raymond Ng (UBC Computer Science) Location: Mobify Head Office (725 Granville Street, Suite #420) Talk: 18:00 &amp;ndash; 19:00
+Reception: 19:00 &amp;ndash; 20:30 Registration: Link for registration
+Description Personalized medicine has been hailed as one of the main frontiers for medical research in this century. In the first half of the talk, we will give an overview on our projects that use complex and big datta sets for biomarker discovery.</description>
+    </item>
+    
+    <item>
+      <title>Combating Crime with Predictive Policing: Stopping a Crime Wave in its Tracks</title>
+      <link>http://bcdata.ca/2018/post/20180207-prox/</link>
+      <pubDate>Wed, 07 Feb 2018 18:00:00 -0800</pubDate>
+      
+      <guid>http://bcdata.ca/2018/post/20180207-prox/</guid>
+      <description>Speaker: Special Constable Ryan Prox (Vancouver Police Department) Location: SFU Harbour centre (talk: room 1700; reception: room 1305)
+Talk: 18:00 &amp;ndash; 19:00
+Reception: 19:00 &amp;ndash; 20:30
+Details: Visit the event listing on the IAM website to obtain more information. Registration: Link for registration
+Description The Vancouver Police Department is known worldwide for its pioneering work in the field of intelligence-led policing, and is the first police service in Canada to deploy a machine-learning predictive system directly on police mobile computers.</description>
+    </item>
+    
+    <item>
+      <title>Deep Neural Networks Meet Partial Differential Equations</title>
+      <link>http://bcdata.ca/2018/post/20171115-haber/</link>
+      <pubDate>Wed, 15 Nov 2017 18:00:00 -0700</pubDate>
+      
+      <guid>http://bcdata.ca/2018/post/20171115-haber/</guid>
+      <description>Speaker: Eldad Haber (UBC)
+Location: Mobify Vancouver 725 Granville St #420
+Talk: 18:00 &amp;ndash; 19:00
+Reception: 19:00 &amp;ndash; 20:30
+Details: Visit the event listing on the PIMS website to register or obtain more information.
+Description In this talk we will explore deep neural networks from a dynamical systems point of view. We will show that the learning problem can be cast as a path planning problem with PDE constraint. This opens the door to conventional Computational techniques that can speed up the learning process and avoid some of the local minima.</description>
+    </item>
+    
+    <item>
+      <title>bcdata colloquium introduction</title>
+      <link>http://bcdata.ca/2018/post/20171001-introduction/</link>
+      <pubDate>Sun, 01 Oct 2017 00:08:00 -0700</pubDate>
+      
+      <guid>http://bcdata.ca/2018/post/20171001-introduction/</guid>
+      <description> 2017 bcdata colloquium Organization and sponsorship Organizers include the Institute of Applied Mathematics (UBC IAM) and the Pacific Institute for the Mathematical Sciences (PIMS).
+This series is co-sponsored by CANSSI, UBC DSI, SFU Math, UBC IAM and PIMS.
+           </description>
+    </item>
+    
+  </channel>
+</rss>
