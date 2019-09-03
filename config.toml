@@ -16,7 +16,7 @@ theme = "hugo-hikari-theme"
 [params]
 	name = "bcdata.ca"
 	description = "Data talks linking industry and the academy."
-	copyright = "&copy; 2017 bcdata.ca -- All Rights Reserved."
+	copyright = "&copy; 2019 bcdata.ca -- All Rights Reserved."
 
 	# Custom assets can be linked with their paths relative to static/
 	custom_css = []
