@@ -1,4 +1,4 @@
-baseurl = "https://bcdataca.github.io/bcdata-src18/"
+baseurl = "/2018/"
 relativeurls=false
 canonifyurls=false
 
